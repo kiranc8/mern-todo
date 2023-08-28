@@ -1,10 +1,10 @@
 # Todo list App
 
-A simple todo list app with basic features like add task, delete task and fetch the list and edit particular field. Once created an account, they will be able to add tasks in todo page. The web has built with MERN full stack and it has been deployed with netlify and firebase.
+A simple todo list app with basic features like add task, delete task and fetch the list and edit particular field. Once created an account, they will be able to add tasks in todo page. The web has built with MERN full stack and it has been deployed with render.
 
 ## DEMO
 
-https://merntodolistapplication.netlify.app/
+https://todo-application-sj8t.onrender.com/
 
 ## FEATURES
 
